@@ -4,21 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "4f9a11a009936c07",
+        "id": "7f77c0100d714e9d",
         "type": "tabs",
         "children": [
           {
-            "id": "70a1b339f602a3ec",
+            "id": "66bddb5a20bde22f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/Template.md",
+                "file": "Module-info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template"
+              "title": "Module-info"
+            }
+          },
+          {
+            "id": "174dcb570c383796",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UI11016_Large_Software_Challenge/LO1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LO1"
+            }
+          },
+          {
+            "id": "2a9284cb3a69cabf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "0515d2ecbb321fd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a139ca0d7cd5173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -78,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1924d6a2fda04f80",
@@ -94,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lectures/Template.md",
+                "file": "daily_logs/05.20-appCompetitionResearch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Template"
+              "title": "Backlinks for 05.20-appCompetitionResearch"
             }
           },
           {
@@ -113,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lectures/Template.md",
+                "file": "daily_logs/05.20-appCompetitionResearch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Template"
+              "title": "Outgoing links from 05.20-appCompetitionResearch"
             }
           },
           {
@@ -142,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lectures/Template.md",
+                "file": "daily_logs/05.20-appCompetitionResearch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Template"
+              "title": "Outline of 05.20-appCompetitionResearch"
             }
           }
         ]
@@ -168,11 +218,77 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70a1b339f602a3ec",
+  "floating": {
+    "id": "3c2a08a77e3e00e9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "cbc9ca4256da78ee",
+        "type": "window",
+        "children": [
+          {
+            "id": "80d1e4755bf4f5bd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ffe204af6f329a17",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "notes/Untitled.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Untitled"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 460,
+        "y": 683,
+        "width": 1192,
+        "height": 779,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2a139ca0d7cd5173",
   "lastOpenFiles": [
-    "daily_logs/05.19-MotorolaTask.md",
+    "UI11016_Large_Software_Challenge/LO1.md",
+    "Untitled.md",
+    "notes/Untitled.md",
+    "UI11016_Large_Software_Challenge/LO1(new).md",
+    "Module-info.md",
+    "UI11014_Applied_Research/LO5 Template.docx",
+    "UI11014_Applied_Research/QA Doc Framework (1)(1).docx",
+    "UI11014_Applied_Research/LO2_LK.docx",
+    "UI11014_Applied_Research/LO2_LK (1)(2).docx",
+    "UI11014_Applied_Research/LO3 Template.docx",
+    "UI11014_Applied_Research/LO4 Template.docx",
+    "UI11014_Applied_Research/LO1_LK.docx",
+    "UI11014_Applied_Research/LO2 Template.docx",
+    "UI11014_Applied_Research/LO1 Template.docx",
+    "UI11014_Applied_Research/LO1_LKnu.docx",
+    "UI11017_Long_Tail_of_the_Software_Cycle/LO2.md",
+    "lectures/RGU-computerVision.md",
+    "Large_Software_Challenge/LO1.md",
+    "Long_Tail_of_the_Software_Cycle/LO2.md",
+    "AppPlan.md",
+    "notes/Untitled 1.md",
+    "daily_logs/06.09-appTrackingAPIs.md",
+    "daily_logs/06.06-appNotes.md",
+    "notes/Cisco-GHG-Accounting.md",
+    "notes/ideas.md",
+    "daily_logs/05.22-LongTailLOs.md",
+    "daily_logs/05.20-appCompetitionResearch.md",
+    "daily_logs/05.17-C++First.md",
     "lectures/Template.md",
-    "guest_lectures/Template.md",
-    "daily_logs/05.17-C++First.md"
+    "daily_logs/05.19-MotorolaTask.md",
+    "guest_lectures/Template.md"
   ]
 }
