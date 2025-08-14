@@ -6,6 +6,7 @@
       {
         "id": "7f77c0100d714e9d",
         "type": "tabs",
+        "dimension": 26.090604026845636,
         "children": [
           {
             "id": "66bddb5a20bde22f",
@@ -27,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UI11016_Large_Software_Challenge/LO1.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LO1"
+              "title": "Untitled"
             }
           },
           {
@@ -41,36 +42,80 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "daily_logs/08.07-userStory notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "08.07-userStory notes"
             }
           }
         ],
         "currentTab": 2
       },
       {
-        "id": "0515d2ecbb321fd7",
+        "id": "4fdbdc58ab46f68c",
         "type": "tabs",
+        "dimension": 73.90939597315436,
         "children": [
           {
-            "id": "2a139ca0d7cd5173",
+            "id": "882664e9134cc672",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "User stories.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "User stories"
+            }
+          },
+          {
+            "id": "276368fd1f96aab3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_logs/06.09-appTrackingAPIs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06.09-appTrackingAPIs"
+            }
+          },
+          {
+            "id": "03d470346d6133c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module-info.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Module-info"
+            }
+          },
+          {
+            "id": "fc557091a820b755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_logs/08.13-DevOps&Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08.13-DevOps&Test"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1924d6a2fda04f80",
@@ -218,52 +262,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "3c2a08a77e3e00e9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cbc9ca4256da78ee",
-        "type": "window",
-        "children": [
-          {
-            "id": "80d1e4755bf4f5bd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ffe204af6f329a17",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "notes/Untitled.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Untitled"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 460,
-        "y": 683,
-        "width": 1192,
-        "height": 779,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "2a139ca0d7cd5173",
+  "active": "fc557091a820b755",
   "lastOpenFiles": [
-    "UI11016_Large_Software_Challenge/LO1.md",
-    "Untitled.md",
+    "daily_logs/08.12-presentationPlan.md",
+    "daily_logs/08.13-DevOps&Test.md",
+    "daily_logs/08.11-tutorialLinks.md",
+    "daily_logs/08.07-userStory notes.md",
     "notes/Untitled.md",
-    "UI11016_Large_Software_Challenge/LO1(new).md",
     "Module-info.md",
+    "User stories.md",
+    "Untitled.md",
+    "UI11015_Enterprise_Transformation/LO1.xlsx",
+    "UI11015_Enterprise_Transformation/Risk_Register_2025.xlsx",
+    "daily_logs/06.09-appTrackingAPIs.md",
+    "UI11014_Applied_Research/LO1-usefulNotes.md",
+    "UI11016_Large_Software_Challenge/LO1(new).md",
+    "UI11016_Large_Software_Challenge/LO1.md",
+    "Spanish.md",
     "UI11014_Applied_Research/LO5 Template.docx",
     "UI11014_Applied_Research/QA Doc Framework (1)(1).docx",
     "UI11014_Applied_Research/LO2_LK.docx",
@@ -272,23 +287,18 @@
     "UI11014_Applied_Research/LO4 Template.docx",
     "UI11014_Applied_Research/LO1_LK.docx",
     "UI11014_Applied_Research/LO2 Template.docx",
-    "UI11014_Applied_Research/LO1 Template.docx",
-    "UI11014_Applied_Research/LO1_LKnu.docx",
     "UI11017_Long_Tail_of_the_Software_Cycle/LO2.md",
     "lectures/RGU-computerVision.md",
     "Large_Software_Challenge/LO1.md",
     "Long_Tail_of_the_Software_Cycle/LO2.md",
     "AppPlan.md",
     "notes/Untitled 1.md",
-    "daily_logs/06.09-appTrackingAPIs.md",
     "daily_logs/06.06-appNotes.md",
     "notes/Cisco-GHG-Accounting.md",
     "notes/ideas.md",
     "daily_logs/05.22-LongTailLOs.md",
     "daily_logs/05.20-appCompetitionResearch.md",
     "daily_logs/05.17-C++First.md",
-    "lectures/Template.md",
-    "daily_logs/05.19-MotorolaTask.md",
-    "guest_lectures/Template.md"
+    "lectures/Template.md"
   ]
 }
