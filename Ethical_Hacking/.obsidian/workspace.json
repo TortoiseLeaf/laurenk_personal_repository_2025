@@ -36,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -73,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c155ce058f8677d0",
@@ -162,9 +162,9 @@
   },
   "active": "743aa453e8eae3f7",
   "lastOpenFiles": [
+    "09.07-lesson_1.md",
     "10.01-lesson_5.md",
     "09.29-Lesson_3-4.md",
-    "09.07-lesson_1.md",
     "09.10-lesson2.md"
   ]
 }
