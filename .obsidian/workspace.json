@@ -6,10 +6,9 @@
       {
         "id": "7f77c0100d714e9d",
         "type": "tabs",
-        "dimension": 26.090604026845636,
         "children": [
           {
-            "id": "66bddb5a20bde22f",
+            "id": "5da420588023a067",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,71 +22,35 @@
             }
           },
           {
-            "id": "174dcb570c383796",
+            "id": "3afbae4a85eeeba8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "UI5_Software_Project_Initiation_and_Planning/LO5_SRS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "LO5_SRS"
             }
           },
           {
-            "id": "2a9284cb3a69cabf",
+            "id": "83f1a6e723d787e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_logs/08.07-userStory notes.md",
+                "file": "requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08.07-userStory notes"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "4fdbdc58ab46f68c",
-        "type": "tabs",
-        "dimension": 73.90939597315436,
-        "children": [
-          {
-            "id": "882664e9134cc672",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "User stories.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "User stories"
+              "title": "requirements"
             }
           },
           {
-            "id": "276368fd1f96aab3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily_logs/06.09-appTrackingAPIs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06.09-appTrackingAPIs"
-            }
-          },
-          {
-            "id": "03d470346d6133c8",
+            "id": "b31747dbd60355d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -101,21 +64,175 @@
             }
           },
           {
-            "id": "fc557091a820b755",
+            "id": "cf08919bfe8d83ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_logs/08.13-DevOps&Test.md",
+                "file": "daily_logs/09.26-anotherFriday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08.13-DevOps&Test"
+              "title": "09.26-anotherFriday"
+            }
+          },
+          {
+            "id": "070744b4ad9529f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_logs/10.31-fridaymeeting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.31-fridaymeeting"
+            }
+          },
+          {
+            "id": "f0027e3203b489b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "requirements doc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "requirements doc"
+            }
+          },
+          {
+            "id": "a9c1462f954e3b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_logs/11.16-stress.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11.16-stress"
+            }
+          },
+          {
+            "id": "fbe703f65ec984c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_logs/11.17-testConsentSystem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11.17-testConsentSystem"
+            }
+          },
+          {
+            "id": "26aff0955481eaac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11.18-conversionTable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11.18-conversionTable"
+            }
+          },
+          {
+            "id": "df10b1f3cfdd3188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11.19-SWANUI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11.19-SWANUI"
+            }
+          },
+          {
+            "id": "1ca503f851ba1914",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11.20-meeting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11.20-meeting"
+            }
+          },
+          {
+            "id": "c02d7edf784d30b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11.21-SimoneNotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11.21-SimoneNotes"
+            }
+          },
+          {
+            "id": "132d8c9ccb7e1963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design accessibility requirements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design accessibility requirements"
+            }
+          },
+          {
+            "id": "67791f7ce1c64c4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11.14-try-catch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11.14-try-catch"
+            }
+          },
+          {
+            "id": "888d4ed625d194dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test_Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test_Plan"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -168,11 +285,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1924d6a2fda04f80",
@@ -254,6 +373,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -262,43 +382,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc557091a820b755",
+  "active": "67791f7ce1c64c4e",
   "lastOpenFiles": [
-    "daily_logs/08.12-presentationPlan.md",
-    "daily_logs/08.13-DevOps&Test.md",
-    "daily_logs/08.11-tutorialLinks.md",
-    "daily_logs/08.07-userStory notes.md",
-    "notes/Untitled.md",
+    "notes/androidAPIUML.png",
+    "Test_Plan.md",
+    "11.21-SimoneNotes.md",
+    "11.20-meeting.md",
+    "Design accessibility requirements.md",
+    "11.14-try-catch.md",
     "Module-info.md",
-    "User stories.md",
-    "Untitled.md",
-    "UI11015_Enterprise_Transformation/LO1.xlsx",
-    "UI11015_Enterprise_Transformation/Risk_Register_2025.xlsx",
-    "daily_logs/06.09-appTrackingAPIs.md",
-    "UI11014_Applied_Research/LO1-usefulNotes.md",
-    "UI11016_Large_Software_Challenge/LO1(new).md",
-    "UI11016_Large_Software_Challenge/LO1.md",
-    "Spanish.md",
-    "UI11014_Applied_Research/LO5 Template.docx",
-    "UI11014_Applied_Research/QA Doc Framework (1)(1).docx",
-    "UI11014_Applied_Research/LO2_LK.docx",
-    "UI11014_Applied_Research/LO2_LK (1)(2).docx",
-    "UI11014_Applied_Research/LO3 Template.docx",
-    "UI11014_Applied_Research/LO4 Template.docx",
-    "UI11014_Applied_Research/LO1_LK.docx",
-    "UI11014_Applied_Research/LO2 Template.docx",
-    "UI11017_Long_Tail_of_the_Software_Cycle/LO2.md",
-    "lectures/RGU-computerVision.md",
-    "Large_Software_Challenge/LO1.md",
-    "Long_Tail_of_the_Software_Cycle/LO2.md",
-    "AppPlan.md",
-    "notes/Untitled 1.md",
-    "daily_logs/06.06-appNotes.md",
-    "notes/Cisco-GHG-Accounting.md",
-    "notes/ideas.md",
-    "daily_logs/05.22-LongTailLOs.md",
-    "daily_logs/05.20-appCompetitionResearch.md",
-    "daily_logs/05.17-C++First.md",
-    "lectures/Template.md"
+    "UI_Software_Project_Initiation_and_Planning/SRS_Maui.docx",
+    "UI_Software_Project_Initiation_and_Planning/Coursework 1 Planning_v2(1).docx",
+    "11.19-SWANUI.md",
+    "UI_Software_Project_Initiation_and_Planning/business-plan-and-cash-flow.xlsx",
+    "daily_logs/10.03-GDPRpolicystuff&CICD.md",
+    "11.18-conversionTable.md",
+    "daily_logs/11.16-stress.md",
+    "daily_logs/10.07-Ben&VickyModules.md",
+    "daily_logs/11.03-1stMauiMeeting.md",
+    "daily_logs/11.17-testConsentSystem.md",
+    "daily_logs/11.15-listofTodo-Catchup.md",
+    "UI_Software_Project_Management_Lifecycles/UI110017_portfolio_Project_management_Lifecycles.docx",
+    "UI_Software_Project_Initiation_and_Planning/Digital_Portfolio_UI110021_Project_initiation_planning.docx",
+    "UI_Software_Project_Development_&_Testing/6.md",
+    "UI_Software_Project_Development_&_Testing/2.md",
+    "UI_Software_Project_Development_&_Testing/1.md",
+    "UI_Software_Project_Development_&_Testing",
+    "UI_Software_Project_Initiation_and_Planning/LO4.md",
+    "UI_Software_Project_Initiation_and_Planning/LO5_SRS.md",
+    "UI_Software_Project_Initiation_and_Planning/LO1.md",
+    "UI_Software_Project_Initiation_and_Planning/LO1(new).md",
+    "UI_Software_Project_Initiation_and_Planning",
+    "UI_Software_Project_Management_Lifecycles/UI110017_portfolio.docx",
+    "UI_Software_Project_Management_Lifecycles/LO2.md",
+    "UI_Software_Project_Management_Lifecycles/LO1-usefulNotes.md",
+    "UI_Software_Project_Management_Lifecycles/3.md",
+    "UI_Software_Project_Management_Lifecycles/5.md",
+    "UI_Software_Project_Management_Lifecycles",
+    "UI_Enterprise_Transformation/LO1.xlsx"
   ]
 }
