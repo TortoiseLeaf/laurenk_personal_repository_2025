@@ -1,0 +1,9 @@
+| Design and develop training materials and plan end user training following software deployment, include consideration of human and technical security requirements.                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Review common pitfalls and mitigations in common quality assurance techniques.                                                                                                                                                                                                                                                                                                                   |
+| Critically evaluate the properties of good software design including the nature and the role of associated documentation, appreciating that design increasingly covers the use of existing code and 3rd party elements that may be an alternative to development of code from scratch through make/buy decisions.  Assess these properties in a security context and impact on the threat model. |
+
+### **Pertaining to security also**
+Software documentation is fundamental to good software design as both self documenting code and an appropriate and clear overview of a codebase, including an overview of the file structure can expedite the onboarding and handover process of allowing collaborators to maintain or contribute changes to the code. 
+https://upsun.com/blog/code-documentation/
+
