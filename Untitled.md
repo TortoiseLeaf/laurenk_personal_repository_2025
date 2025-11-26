@@ -1,161 +1,112 @@
-# Software Requirements Document
 
-## Project Information
-
-**Project Name:** EcoScreen
-
-**Project Owner:** This Company Inc.
-
-**Version:** 1.0
-
-**Date:** June 24, 2025
-
-## 1. Introduction
-
-The purpose of this document is to outline requirements for the development of the EcoScreen app tracker, a mobile application created to track the screentime of a users social media use, convert that into CO2eq using accepted metrics and display the results to the user as visual comparisons with events found in the natural world. This document will function as a guide for both the development team and all stakeholders involved to ensure all necessary features and functionalities are explained transparently and implemented, to provide end-users with comprehensive insights into their social media consumption and to help restore an awareness of their relationship to the physical world, while gently encouraging more healthy phone usage and consideration for the climate.
-
-## 2. Scope
-
-The scope of EcoScreen app tracker includes the following:
-
-**Feature 1: Real-time app usage tracking and monitoring**
-
-- Track the cumulative usage of individual social media apps
-- Provide an insight into patterns of behaviour/ regular app consumption
-- 
-
-// THESE CAN BE MORE BENEFITS THAN FEATURES (?)
-
-**Feature 2: Convert individual app-use into CO2eq emissions**
-
-- Safely store and handle screentime data in accordance with GDPR
-- Use accepted GHG Conversion Metrics to calculate CO2eq emissions of app usage
-- Compare app emissions with familiar natural events ("x mins = y trees")
-- 
-- Present that provide insight, greater context, awareness of physical activity
-
-**Feature 3: Data Analytics and Reporting**
-
-- Show cumulative app usage between daily, weekly, monthly increments
-- Provide comparative analytics between periods of use 
-- Create visuals with charts and graphs to communicate natural CO2eq comparisons
-- 
-- Compare usage between this and previous week 
-- Usage and progress equated to natural events  
+### What sustainability issue are you addressing, and why? (max 200 words):  *****
+Media apps are designed to scroll endlessly with no apparent physical cost, but the cost to the climate and to our physical and mental wellbeing is there.
+The project aims to help create informed consumers by showing the user the physical cost of their online habits, and then by quantifying it against interesting CO2 sink events in nature and offering links to relevant charities and initiatives, hoping to make the natural world feel more accessible to the user. 
+It aims also to function as a tool to mitigate the screen time overuse of intentionally addictive media applications. Ultimately the project hopes to integrate into the digital health layer of our devices, to better empower the user over their own digital health and provide a reminder of our proximity to the natural world, while we engage in the habitual online activities that can make us feel most removed from it. 
 
 
+### In one paragraph, describe your idea (max 250 words): *****
+A digital wellbeing app that silently tracks the users screen time spent on social media apps, converts the minutes into CO2eq, and compares CO2eq cost to events in the natural world, offering suggestions to offset and/or links to relevant charities to make initiatives more accessible. 
+There are plans to incorporate a local tree planting initiative to plant 1 tree for every x.Kg of CO2eq saved.
 
-**Feature 4: Digital Wellness Tools**
 
-- Empower users to have better control over their social media habits
-- Encourage curiosity about the natural world, promoting better health
-- Offers a CBT-like break in the cycle of use, promoting mindfulness
-- 
-- Set app usage limits and time-based restrictions
-- Configure break reminders and mindful usage notifications
-- Implement focus modes and app blocking capabilities
+### What support will you need from UHI (e.g. staff, budget help, comms)? *****
+Guidance from Delivery staff on project development and longevity, help with pitches or applications. Coordination with other UHI students for tree planting, and help from UHI to budget in the resources and efforts/manpower for the tree planting initiative.
+Guidance on legitimising the project legally as a viable product at the projects finish and release.
 
-## 3. Functional Requirements
+### Breakdown of how the funding would be used (bullet list acceptable) *****
+- Development costs
+	- Different dev teams, frontend, backend, security, legal
+- Release/Production costs (will look to do this as freely as possible)
+- Google app store listing costs
+- Tree planting resources (fuel, saplings, tools, coordination/logistics meetings, manpower)
+- Marketing(?)
 
-### 3.1 Real-time app usage tracking and monitoring
 
-- **Requirement 1.1:** The system will track the time spent using each installed social media application within an accuracy of 5 seconds
-- **Requirement 1.2:** The system will record each session duration and timestamps for individual social media app use
-- **Requirement 1.3:** The system will accumulate individual app screentime and total each session per day
-- **Requirement 1.4:** The system will store this personal data in accordance with GDPR
+```
+                    <Label 
+                        Text="PRIVACY POLICY
+Last updated October 27, 2025
+This Privacy Notice for MauiScreenTime ('we', 'us', or 'our'), describes how and why we might access, collect, store, use, and/or share ('process') your personal information when you use our services ('Services'), including when you:
+Download and use our mobile application (MauiScreenTime) or any other application of ours that links to this Privacy Notice Engage with us in other related ways, including any sales, marketing, or events Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at 19015831@uhi.ac.uk.
 
-### 3.2 Convert individual app-use into CO2eq emissions
+SUMMARY OF KEY POINTS 
+This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for. What personal information do we process?
+When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about personal information you disclose to us Do we process any sensitive personal information? Some of the information may be considered 'special' or 'sensitive' in certain jurisdictions, for example your racial or ethnic origins, sexual orientation, and religious beliefs. We may process sensitive personal information when necessary with your consent or as otherwise permitted by applicable law. Learn more about sensitive information we process Do we collect any information from third parties? We do not collect any information from third parties. How do we process your information? We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about how we process your information. In what situations and with which parties do we share personal information? We may share information in specific situations and with specific third parties. Learn more about when and with whom we share your personal information.
+How do we keep your information safe? We have adequate organisational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorised third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about how we keep your information safe What are your rights? Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about  your privacy rights
+How do you exercise your rights? The easiest way to exercise your rights is by submitting a data subject access request, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws. Want to learn more about what we do with any information we collect? Review the Privacy Notice in full" 
+                    LineBreakMode="WordWrap"
+                    Padding="10"/>
+```
 
-- **Requirement 2.1:** The system will store and handle personal user data in accordance with GDPR laws and regulations (what does that look like and write it here)
-- **Requirement 2.2:** The system will use accepted GHG conversion metrics to calculate the CO2eq emissions of individual app use
-- **Requirement 2.3:** The system will provide greater context of app use by comparing CO2eq results with events occurring in the natural world.
-- **Requirement 2.4:** The system shall allow users to export usage data in CSV format for external analysis (?)
+PRIVACY POLICY
+Last updated October 27, 2025
+This Privacy Notice for MauiScreenTime (<bdt class="block-component"></bdt>'<strong>we</strong>', '<strong>us</strong>', or '<strong>our</strong>'), describes how and why we might access, collect, store, use, and/or share (<bdt class="block-component"></bdt>'<strong>process</strong>'<bdt class="else-block"></bdt>) your personal information when you use our services (<bdt class="block-component"></bdt>'<strong>Services</strong>'<bdt class="else-block"></bdt>), including when you:
+Download and use<bdt class="block-component"></bdt> our mobile application<bdt class="block-component"></bdt> (MauiScreenTime) or any other application of ours that links to this Privacy Notice Engage with us in other related ways, including any sales, marketing, or events Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services.<bdt class="block-component"></bdt> If you still have any questions or concerns, please contact us at <bdt class="question noTranslate"><a target="_blank" data-custom-class="link" href="mailto:19015831@uhi.ac.uk">19015831@uhi.ac.uk</a></bdt>.
 
-THESE TWO ARE THE SAME? 2 AND 3 RIGHT?
-### 3.3 Data Analytics and Reporting
+SUMMARY OF KEY POINTS 
+This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for. What personal information do we process?
+When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about personal information you disclose to us Do we process any sensitive personal information? Some of the information may be considered <bdt class="block-component"></bdt>'special' or 'sensitive'<bdt class="else-block"></bdt> in certain jurisdictions, for example your racial or ethnic origins, sexual orientation, and religious beliefs. <bdt class="block-component"></bdt>We may process sensitive personal information when necessary with your consent or as otherwise permitted by applicable law. Learn more about sensitive information we process Do we collect any information from third parties? We do not collect any information from third parties. How do we process your information? We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about how we process your information. In what situations and with which <bdt class="block-component"></bdt>parties do we share personal information? We may share information in specific situations and with specific <bdt class="block-component"></bdt>third parties. Learn more about when and with whom we share your personal information.
+How do we keep your information safe? We have adequate <bdt class="block-component"></bdt>organisational<bdt class="else-block"></bdt> and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other <bdt class="block-component"></bdt>unauthorised<bdt class="else-block"></bdt> third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about how we keep your information safe What are your rights? Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about  your privacy rights
+How do you exercise your rights? The easiest way to exercise your rights is by submitting a data subject access request, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws. Want to learn more about what we do with any information we collect? Review the Privacy Notice in full
 
-- **Requirement 3.1:** The system will accumulate social media app use and display it as daily, weekly, and monthly increments with visual representations
-- **Requirement 3.2:** The system will provide usage analysis by comparing current usage patterns with historical data, (by day, week, month? /over customizable time periods)
-- **Requirement 3.3:** The system shall calculate and display usage metrics including average session length, most used apps, and peak usage hours
-- **Requirement 3.4:** The system shall allow users to export usage data in CSV format for external analysis
+TABLE OF CONTENTS
 
-### 3.3 Digital Wellness Tools
+1. WHAT INFORMATION DO WE COLLECT?
+2. HOW DO WE PROCESS YOUR INFORMATION?
+3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?
+4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+5. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
+6. HOW LONG DO WE KEEP YOUR INFORMATION?
+7. HOW DO WE KEEP YOUR INFORMATION SAFE?
+8. DO WE COLLECT INFORMATION FROM MINORS?
+9. WHAT ARE YOUR PRIVACY RIGHTS?
+10. CONTROLS FOR DO-NOT-TRACK FEATURES
+11. DO WE MAKE UPDATES TO THIS NOTICE?
+12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+14. WHAT INFORMATION DO WE COLLECT?
 
-- **Requirement 3.1:** The system shall allow users to set daily time limits for individual apps or app categories with customizable enforcement levels
-- **Requirement 3.2:** The system shall provide configurable break reminders and mindful usage notifications based on usage patterns
-- **Requirement 3.3:** The system shall implement focus modes that can temporarily block distracting apps during specified time periods
+Personal information you disclose to us
+In Short:
+We collect personal information that you provide to us. We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us. Sensitive Information. <bdt class="block-component"></bdt>When necessary, with your consent or as otherwise permitted by applicable law, we process the following categories of sensitive information:
+Application Data. If you use our application(s), we also may collect the following information if you choose to provide us with access or permission: 
+Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's <bdt class="forloop-component"></bdt>and other features. If you wish to change our access or permissions, you may do so in your device's settings. Push Notifications. We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings. This information is primarily needed to maintain the security and operation of our application(s), for troubleshooting, and for our internal analytics and reporting purposes. All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
-## 4. Non-Functional Requirements
+2. HOW DO WE PROCESS YOUR INFORMATION? In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law.<bdt class="block-component"></bdt> We may also process your information for other purposes <bdt class="block-component"></bdt>with your<bdt class="statement-end-if-in-editor"></bdt> consent. We process your personal information for a variety of reasons, depending on how you interact with our Services, including: To deliver and facilitate delivery of services to the user. We may process your information to provide you with the requested service. To save or protect an individual's vital interest. We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
 
-- **Requirement 4.1:** The application shall have minimal impact on device battery life, consuming no more than 2% of total battery capacity per day during normal operation
-- **Requirement 4.2:** The system shall maintain 99.5% uptime for data collection services and respond to user interactions within 2 seconds
-- **Requirement 4.3:** The application shall be compatible with Android 8.0+ and iOS 13.0+ devices
-- **Requirement 4.4:** The system shall handle data collection for up to 500 installed apps without performance degradation
+3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION? In Short: We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e. legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or <bdt class="block-component"></bdt>fulfil<bdt class="else-block"></bdt> our contractual obligations, to protect your rights, or to <bdt class="block-component"></bdt>fulfil<bdt class="else-block"></bdt> our legitimate business interests. The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information: Consent. We may process your information if you have given us permission (i.e.<bdt class="block-component"></bdt> consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about withdrawing your consent
+ . Performance of a Contract. We may process your personal information when we believe it is necessary to <bdt class="block-component"></bdt>fulfil<bdt class="else-block"></bdt> our contractual obligations to you, including providing our Services or at your request prior to entering into a contract with you. Legal Obligations. We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved. Vital Interests. We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.  
+ 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION? In Short:   We may share information in specific situations described in this section and/or with the following <bdt class="block-component"></bdt>third parties. We <bdt class="block-component"></bdt>may need to share your personal information in the following situations: Business Transfers.  We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.  
+ 5. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES? In Short: We are not responsible for the safety of any information that you share with third parties that we may link to or who advertise on our Services, but are not affiliated with, our Services. The Services<bdt class="block-component"></bdt><bdt class="block-component"></bdt><bdt class="statement-end-if-in-editor"></bdt> may link to third-party websites, online services, or mobile applications and/or contain advertisements from third parties that are not affiliated with us and which may link to other websites, services, or applications. Accordingly, we do not make any guarantee regarding any such third parties, and we will not be liable for any loss or damage caused by the use of such third-party websites, services, or applications. The inclusion of a link towards a third-party website, service, or application does not imply an endorsement by us. We cannot guarantee the safety and privacy of data you provide to any third-party websites. Any data collected by third parties is not covered by this Privacy Notice. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services, or applications that may be linked to or from the Services. You should review the policies of such third parties and contact them directly to respond to your questions.  
+ 6. HOW LONG DO WE KEEP YOUR INFORMATION? In Short: We keep your information for as long as necessary to fulfil<bdt class="else-block"></bdt> the purposes outlined in this Privacy Notice unless otherwise required by law. We will only keep your personal information for as long as it is necessary for the purposes set out in this Privacy Notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). When we have no ongoing legitimate business need to process your personal information, we will either delete or <bdt class="block-component"></bdt>anonymise<bdt class="else-block"></bdt> such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+ 7. HOW DO WE KEEP YOUR INFORMATION SAFE? In Short: We aim to protect your personal information through a system of <bdt class="block-component"></bdt>organisational<bdt class="else-block"></bdt> and technical security measures. We have implemented appropriate and reasonable technical and <bdt class="block-component"></bdt>organisational<bdt class="else-block"></bdt> security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other <bdt class="block-component"></bdt>unauthorised<bdt class="else-block"></bdt> third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
+ 8. DO WE COLLECT INFORMATION FROM MINORS? In Short: We do not knowingly collect data from or market to <bdt class="block-component"></bdt>children under 18 years of age<bdt class="block-component"></bdt><bdt class="else-block"></bdt>. We do not knowingly collect, solicit data from, or market to children under 18 years of age<bdt class="block-component"></bdt>, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18<bdt class="block-component"></bdt> or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age<bdt class="block-component"></bdt> has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at 19015831@uhi.ac.uk.
+ 9. WHAT ARE YOUR PRIVACY RIGHTS? In Short: In <bdt class="statement-end-if-in-editor"></bdt>some regions, such as <bdt class="block-component"></bdt>the European Economic Area (EEA), United Kingdom (UK), and Switzerland<bdt class="block-component"></bdt>, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time, depending on your country, province, or state of residence. In some regions (like <bdt class="block-component"></bdt>the EEA, UK, and Switzerland<bdt class="block-component"></bdt>), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section ' HOW CAN YOU CONTACT US ABOUT THIS NOTICE? below. We will consider and act upon any request in accordance with applicable data protection laws. If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your Member State data protection authority or UK data protection authority If you are located in Switzerland, you may contact the Federal Data Protection and Information Commissioner. Withdrawing your consent: If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section ' HOW CAN YOU CONTACT US ABOUT THIS NOTICE? below. However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent. If you have questions or comments about your privacy rights, you may email us at 19015831@uhi.ac.uk.
+ 10. CONTROLS FOR DO-NOT-TRACK FEATURES  Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track () feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognising and implementing DNT signals has been finalised. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Notice. 
+ 11. DO WE MAKE UPDATES TO THIS NOTICE? In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws. We may update this Privacy Notice from time to time. The updated version will be indicated by an updated  date at the top of this Privacy Notice. If we make material changes to this Privacy Notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Notice frequently to be informed of how we are protecting your information. 
+ 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE? If you have questions or comments about this notice, you may contact us by post at: 
+ 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU? Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a data subject access request
 
-## 5. User Interface Design
 
-- **Design 1:** The main dashboard shall feature a clean, intuitive layout displaying key metrics through interactive charts, usage summaries, and quick access to most-used apps with a card-based design approach
-- **Design 2:** The app details view shall provide comprehensive information for individual applications including usage graphs, session history, and limit management controls with drill-down capabilities
-- **Design 3:** The settings interface shall organize configuration options into logical groups (privacy, notifications, limits, data management) with clear visual hierarchy and accessibility compliance
+```
+jobs:
+  build:
 
-## 6. System Architecture
+    runs-on: windows-latest
 
-- **Architecture 1:** The application shall follow a modular architecture with separate components for data collection, analytics processing, user interface, and data storage, utilizing local SQLite database for primary data storage
-- **Architecture 2:** The system shall implement a background service architecture that operates independently of the main application UI, ensuring continuous data collection while minimizing resource consumption
-- **Architecture 3:** The application shall use a plugin-based architecture for different operating systems (Android AccessibilityService, iOS Screen Time API) to ensure platform-specific optimization
-
-## 7. Data Requirements
-
-- **Requirement 7.1:** The system shall store app usage data locally on the device using encrypted SQLite database with automatic data retention policies (default 12 months)
-- **Requirement 7.2:** The system shall maintain data integrity through regular backup procedures and provide data recovery mechanisms in case of application crashes or device issues
-- **Requirement 7.3:** The system shall implement data compression techniques to minimize storage footprint while maintaining query performance for historical data analysis
-- **Requirement 7.4:** The system shall provide optional cloud backup functionality with end-to-end encryption for data synchronization across multiple devices
-
-## 8. Security Requirements
-
-- **Requirement 8.1:** All user data shall be encrypted at rest using AES-256 encryption and transmitted using TLS 1.3 protocol for any network communications
-- **Requirement 8.2:** The application shall implement privacy-by-design principles, ensuring no personally identifiable information is collected without explicit user consent, and providing granular privacy controls
-- **Requirement 8.3:** The system shall require user authentication (biometric or PIN) for accessing detailed usage reports and sensitive settings modification
-- **Requirement 8.4:** The application shall comply with GDPR, CCPA, and other applicable data protection regulations, including right to data deletion and portability
-
-## 9. Performance Requirements
-
-- **Requirement 9.1:** The application shall process and display usage statistics for up to 30 days of historical data within 3 seconds of user request
-- **Requirement 9.2:** The background monitoring service shall consume no more than 50MB of RAM during normal operation and efficiently manage memory usage to prevent device slowdown
-- **Requirement 9.3:** The application shall start up and display the main dashboard within 2 seconds on devices meeting minimum system requirements
-- **Requirement 9.4:** The system shall handle concurrent usage tracking for up to 10 active applications without data loss or significant performance impact
-
-## 10. Testing Requirements
-
-- **Requirement 10.1:** The system shall undergo comprehensive unit testing with minimum 85% code coverage, integration testing for all major user workflows, and performance testing under various device conditions
-- **Requirement 10.2:** The application shall be tested across different device models, operating system versions, and usage patterns to ensure consistent behavior and accuracy of data collection
-- **Requirement 10.3:** Security testing shall include penetration testing, data encryption validation, and privacy compliance auditing by third-party security experts
-- **Requirement 10.4:** User acceptance testing shall be conducted with diverse user groups to validate usability, accessibility, and feature effectiveness
-
-## 11. Project Timeline
-
-|Task|Start Date|End Date|
-|---|---|---|
-|Requirement Gathering|July 1, 2025|July 15, 2025|
-|Design and Prototyping|July 16, 2025|August 15, 2025|
-|Development Phase 1 (Core Features)|August 16, 2025|October 15, 2025|
-|Development Phase 2 (Advanced Features)|October 16, 2025|November 30, 2025|
-|Testing and Quality Assurance|December 1, 2025|December 31, 2025|
-|Deployment and Launch|January 1, 2026|January 15, 2026|
-
-## Revisions
-
-|Version|Date|Description|
-|---|---|---|
-|1.0|June 24, 2025|Initial version with core requirements|
-|1.1|[Date]|Updated functional requirements based on stakeholder feedback|
-
-## Signatures
-
-**Project Owner**: ___________________________________________________
-
-**Project Manager**: ___________________________________________________
-
-**Lead Developer**: ___________________________________________________
-
-**QA Manager**: ___________________________________________________
+    steps:
+    - uses: actions/checkout@v4
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: 9.0.x
+    - name: Install .NET MAUI
+      run: dotnet workload install maui
+    - name: Restore dependencies
+      run: dotnet restore
+    - name: Build
+      run: dotnet build MauiScreenTime.csproj -c Release -f net9.0-android --no-restore
+    - name: Test
+      run: dotnet test --no-build --verbosity normal
+```
