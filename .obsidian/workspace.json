@@ -22,91 +22,175 @@
             }
           },
           {
-            "id": "3afbae4a85eeeba8",
+            "id": "ac74a6bf53bf162e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UI5_Software_Project_Initiation_and_Planning/LO5_SRS.md",
+                "file": "daily_logs/vicky_ben_modules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LO5_SRS"
+              "title": "vicky_ben_modules"
             }
           },
           {
-            "id": "83f1a6e723d787e7",
+            "id": "c1cb8e07faa301f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "requirements.md",
+                "file": "daily_logs/02.05-CO2calculate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "requirements"
+              "title": "02.05-CO2calculate"
             }
           },
           {
-            "id": "b31747dbd60355d4",
+            "id": "eb74abf7afef5bbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module-info.md",
+                "file": "02.12-group-mapping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module-info"
+              "title": "02.12-group-mapping"
             }
           },
           {
-            "id": "cf08919bfe8d83ea",
+            "id": "0e86f2a1e0776c44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_logs/09.26-anotherFriday.md",
+                "file": "individual assessment Lois.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09.26-anotherFriday"
+              "title": "individual assessment Lois"
             }
           },
           {
-            "id": "070744b4ad9529f0",
+            "id": "565133202fb06183",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_logs/10.31-fridaymeeting.md",
+                "file": "daily_logs/02.20-vicky_assessment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.31-fridaymeeting"
+              "title": "02.20-vicky_assessment"
             }
           },
           {
-            "id": "f0027e3203b489b2",
+            "id": "d49e29626b03ddc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "requirements doc.md",
+                "file": "Converge feedback.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "requirements doc"
+              "title": "Converge feedback"
             }
           },
           {
-            "id": "a9c1462f954e3b5f",
+            "id": "dd8c0c3c8bc6ff50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_logs/02.23-AdvancedCO2ServicePlanning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02.23-AdvancedCO2ServicePlanning"
+            }
+          },
+          {
+            "id": "0e73ffa2e2dc1fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02.27-Simone.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02.27-Simone"
+            }
+          },
+          {
+            "id": "f5e1d479172bd4bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_logs/03.02-.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03.02-"
+            }
+          },
+          {
+            "id": "8384d63dbfd11f84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_logs/12.02-designHeckieSamMeeting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12.02-designHeckieSamMeeting"
+            }
+          },
+          {
+            "id": "00d7b82e62cb47b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_logs/11.26-secondBackloglist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11.26-secondBackloglist"
+            }
+          },
+          {
+            "id": "3162a4c4f91bd960",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UI_Software_Project_Initiation_and_Planning/SRS_MAUI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SRS_MAUI"
+            }
+          },
+          {
+            "id": "e97312dfdad56459",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,119 +204,35 @@
             }
           },
           {
-            "id": "fbe703f65ec984c5",
+            "id": "5b02a5da827baad8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_logs/11.17-testConsentSystem.md",
+                "file": "daily_logs/11.26-secondBackloglist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.17-testConsentSystem"
+              "title": "11.26-secondBackloglist"
             }
           },
           {
-            "id": "26aff0955481eaac",
+            "id": "73a872cee3d5e8c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.18-conversionTable.md",
+                "file": "daily_logs/01.05-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.18-conversionTable"
-            }
-          },
-          {
-            "id": "df10b1f3cfdd3188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11.19-SWANUI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11.19-SWANUI"
-            }
-          },
-          {
-            "id": "1ca503f851ba1914",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11.20-meeting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11.20-meeting"
-            }
-          },
-          {
-            "id": "c02d7edf784d30b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11.21-SimoneNotes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11.21-SimoneNotes"
-            }
-          },
-          {
-            "id": "132d8c9ccb7e1963",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design accessibility requirements.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design accessibility requirements"
-            }
-          },
-          {
-            "id": "67791f7ce1c64c4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11.14-try-catch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11.14-try-catch"
-            }
-          },
-          {
-            "id": "888d4ed625d194dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test_Plan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Test_Plan"
+              "title": "01.05-"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -285,13 +285,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1924d6a2fda04f80",
@@ -382,43 +380,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67791f7ce1c64c4e",
+  "active": "f5e1d479172bd4bf",
   "lastOpenFiles": [
-    "notes/androidAPIUML.png",
-    "Test_Plan.md",
-    "11.21-SimoneNotes.md",
-    "11.20-meeting.md",
-    "Design accessibility requirements.md",
-    "11.14-try-catch.md",
+    "daily_logs/12.02-designHeckieSamMeeting.md",
+    "02.27-Simone.md",
+    "daily_logs/03.02-.md",
+    "UI_Applied_Research/LCA.docx",
+    "01.20-RebelFundMeeting.md",
+    "daily_logs/02.23-AdvancedCO2ServicePlanning.md",
+    "student and staff enterprise application.md",
+    "Converge feedback.md",
+    "daily_logs/02.20-vicky_assessment.md",
+    "02.12-group-mapping.md",
+    "daily_logs/02.05-CO2calculate.md",
+    "Spanish.md",
+    "UI_questionnaire_maui.docx",
+    "UI_Applied_Research/portfolio_evidence.xlsx",
+    "UI Questionnaire.md",
+    "google app store public checklist.md",
+    "individual assessment Lois.md",
+    "UI_questionnaire.docx",
     "Module-info.md",
-    "UI_Software_Project_Initiation_and_Planning/SRS_Maui.docx",
-    "UI_Software_Project_Initiation_and_Planning/Coursework 1 Planning_v2(1).docx",
-    "11.19-SWANUI.md",
-    "UI_Software_Project_Initiation_and_Planning/business-plan-and-cash-flow.xlsx",
-    "daily_logs/10.03-GDPRpolicystuff&CICD.md",
-    "11.18-conversionTable.md",
-    "daily_logs/11.16-stress.md",
-    "daily_logs/10.07-Ben&VickyModules.md",
-    "daily_logs/11.03-1stMauiMeeting.md",
-    "daily_logs/11.17-testConsentSystem.md",
-    "daily_logs/11.15-listofTodo-Catchup.md",
-    "UI_Software_Project_Management_Lifecycles/UI110017_portfolio_Project_management_Lifecycles.docx",
-    "UI_Software_Project_Initiation_and_Planning/Digital_Portfolio_UI110021_Project_initiation_planning.docx",
-    "UI_Software_Project_Development_&_Testing/6.md",
-    "UI_Software_Project_Development_&_Testing/2.md",
-    "UI_Software_Project_Development_&_Testing/1.md",
-    "UI_Software_Project_Development_&_Testing",
-    "UI_Software_Project_Initiation_and_Planning/LO4.md",
-    "UI_Software_Project_Initiation_and_Planning/LO5_SRS.md",
-    "UI_Software_Project_Initiation_and_Planning/LO1.md",
-    "UI_Software_Project_Initiation_and_Planning/LO1(new).md",
-    "UI_Software_Project_Initiation_and_Planning",
-    "UI_Software_Project_Management_Lifecycles/UI110017_portfolio.docx",
-    "UI_Software_Project_Management_Lifecycles/LO2.md",
-    "UI_Software_Project_Management_Lifecycles/LO1-usefulNotes.md",
-    "UI_Software_Project_Management_Lifecycles/3.md",
-    "UI_Software_Project_Management_Lifecycles/5.md",
-    "UI_Software_Project_Management_Lifecycles",
-    "UI_Enterprise_Transformation/LO1.xlsx"
+    "UI_Applied_Research/greenspector LCA_files/Logo_greenspector_header_white.svg",
+    "UI_Applied_Research/greenspector LCA_files/29ffb.js.download",
+    "UI_Applied_Research/greenspector LCA_files/share-link.min.js.download",
+    "UI_Applied_Research/greenspector LCA_files/ecd39.css",
+    "UI_Applied_Research/greenspector LCA_files/Battery_device-min-1024x200.png",
+    "UI_Applied_Research/greenspector LCA_files/6178e.js.download",
+    "UI_Applied_Research/greenspector LCA_files/913cb.css",
+    "UI_Applied_Research/greenspector LCA.html",
+    "UI_Applied_Research/greenspector LCA_files/Incertitudes_EN_Greenspector-min.png",
+    "UI_Applied_Research/greenspector LCA_files/comparison_estimation_models-min-1024x354.png",
+    "UI_Applied_Research/greenspector LCA_files/Exemple-de-restitution-min.png",
+    "UI_Applied_Research/greenspector LCA_files/image-1.png",
+    "UI_Applied_Research/greenspector LCA_files/schema.png",
+    "UI_Applied_Research/greenspector LCA_files/calculation_steps-min-1024x469.png",
+    "UI_Applied_Research/greenspector LCA_files/Earth.png",
+    "UI_Applied_Research/greenspector LCA_files/Water.png",
+    "daily_logs/vicky_ben_modules.md",
+    "Test_Plan.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "daily_logs/02.02-hack2.md",
+    "Marketing links.md",
+    "daily_logs/01.26-designhackmeeting&Simone.md",
+    "daily_logs/01.20-IBMDesignHack1.md",
+    "daily_logs/01.19-howToSprintPresentation.md",
+    "daily_logs/01.05-.md",
+    "daily_logs/11.16-stress.md"
   ]
 }
