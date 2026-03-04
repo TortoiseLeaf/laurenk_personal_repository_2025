@@ -29,6 +29,7 @@
 | 5          | Technical      | Apply expert-level knowledge from current computing research or industry best practices, proposing novel and viable technical solutions to practical problems.                        |
 | 6          | Sustainability | Conduct an applied research lifecycle assessment (LCA) comparing software or hardware deployment strategies, clearly identifying the most sustainable option based on empirical data. |
 
+LCA [How does Greenspector assess the environmental footprint of digital service use? - Greenspector](https://greenspector.com/en/environmental-footprint-methodology/)
 # Enterprise Transformation NEW
 ## _Sam Tweedlie AR01ST@uhi.ac.uk_
 
