@@ -51,13 +51,15 @@ In conclusion the final recommendation in this report is for the CO2e tracking o
 
 ### Works Cited
 
+Derudder, K. (2021) _What is the environmental footprint for social media applications? 2021 Edition_, _What is the environmental footprint for social media applications? 2021 Edition - Greenspector_. Available at: https://greenspector.com/en/social-media-2021/ (Accessed: 25 November 2025).
+
+Jimenez, M. _et al._ (2021) _Associations between Nature Exposure and Health: A Review of the Evidence_, _Associations between Nature Exposure and Health: A Review of the Evidence | MDPI_. Available at: https://www.mdpi.com/1660-4601/18/9/4790 (Accessed: 26 November 2025).
+
 Lee, R. (2025) _Smartphone Addiction Statistics 2025: Alarming Trends and Insights_, _Smartphone Addiction Statistics 2025: Alarming Trends and Insights - SQ Magazine_. Available at: https://sqmagazine.co.uk/smartphone-addiction-statistics/ (Accessed: 25 November 2025). 
 
 Surg, A. _et al._ (2023) _Link between excessive social media use and psychiatric disorders_, _Link between excessive social media use and psychiatric disorders - PMC_ . Available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC10129173/ (Accessed: 11 November 2025).
 
-Derudder, K. (2021) _What is the environmental footprint for social media applications? 2021 Edition_, _What is the environmental footprint for social media applications? 2021 Edition - Greenspector_. Available at: https://greenspector.com/en/social-media-2021/ (Accessed: 25 November 2025).
 
-Jimenez, M. _et al._ (2021) _Associations between Nature Exposure and Health: A Review of the Evidence_, _Associations between Nature Exposure and Health: A Review of the Evidence | MDPI_. Available at: https://www.mdpi.com/1660-4601/18/9/4790 (Accessed: 26 November 2025).
 
 
 
